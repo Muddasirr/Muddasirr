@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Muddasir Rizwan</h1>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muddasirr&theme=dracula" alt="Trophies">
-</p>
-
 ## 🚀 About Me
 - 🔭 Currently working at **[Euronet](https://www.euronetworldwide.com/)**
 - 🌱 Proficient in **React.js, Java, ML**
