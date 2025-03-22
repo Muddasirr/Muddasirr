@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://leetcard.jacoblin.cool/Muddasirr
+![Leetcode Stats](https://leetcard.jacoblin.cool/Muddasirr)
 <!--
 **Muddasirr/Muddasirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
