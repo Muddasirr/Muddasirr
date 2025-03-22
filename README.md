@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muddasir Rizwan</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muddasirrizwan&theme=dracula" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muddasirr&theme=dracula" alt="Trophies">
 </p>
 
 ## 🚀 About Me
@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muddasirr&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
-
+## 📊 Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Muddasirr)
 <!--
 **Muddasirr/Muddasirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
