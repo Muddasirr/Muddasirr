@@ -5,14 +5,14 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 Currently working on **[BuzzBoosters](https://buzzboosters.com/)**
-- 🌱 Currently learning **Cloud Computing, DevOps, ML for Security**
-- 📫 Reach me at **muddassirrizwan9@gmail.com**
+- 🔭 Currently working at **[Euronet](https://www.euronetworldwide.com/)**
+- 🌱 Proficient in **React.js, Java, ML**
+- 📫 Reach me at **muddasirrizwan9@gmail.com**
 
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/muddasirrizwan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/muddasirrizwan" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+ 
 </p>
 
 ## 🛠 Languages and Tools
@@ -25,15 +25,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muddasirrizwan&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muddasirr&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muddasirrizwan&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=Muddasirr&theme=tokyonight" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muddasirrizwan&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muddasirr&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Muddasirr)
