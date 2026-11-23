@@ -1,46 +1,25 @@
-<h1 align="center">Hi, I'm Muddasir Rizwan</h1>
+## Muddasir Rizwan
 
-## 🚀 About Me
-- 🔭 Currently working at **[Euronet](https://www.euronetworldwide.com/)**
-- 🌱 Proficient in **React.js, Java, ML**
-- 📫 Reach me at **muddasirrizwan9@gmail.com**
+Software engineer in Karachi. I build full-stack web products and AI agents, from the React front end to the Python services behind it. Looking for full-stack and AI engineering roles, onsite in Pakistan or remote.
 
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/muddasirrizwan/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
- 
-</p>
+**Currently:** software engineer at Codet.ai. I work on a no-code app platform (Next.js workflow canvas, drag-and-drop UI builder, in-app AI assistant) and on a LangGraph agent that tests infrastructure changes on a Kubernetes canary before recommending them for production.
 
-## 🛠 Languages and Tools
-<p align="left"> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Java%20EE-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JDBC-%23B07219.svg?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Cypher-%23000000.svg?style=for-the-badge&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white"/> </p>
+### Featured work
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muddasirr&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
+- **[CourtLens](https://github.com/Muddasirr/courtlens)**: post-match analytics for futsal facilities from fixed cameras or uploaded video. Tracks players and the ball, splits teams by kit, derives possession, passes, shots and per-player stats, and lets staff review everything before it's published. *Python, FastAPI, YOLO, OSNet, PostgreSQL, React, Docker*
+- **[Voice patient registration agent](https://github.com/Muddasirr/CC_voice_agent)**: answers a phone line, registers new patients or updates returning callers by voice, and saves records through the same FastAPI validation layer as the REST API. *Python, FastAPI, SQLAlchemy, Vapi*
+- **[Crop yield predictor](https://github.com/Muddasirr/Satellite-Based-Crop-Yield-Predictor)** ([live](https://satellite-based-crop-yield-predictor.vercel.app)): final-year project at IBA. Predicts crop yield for Pakistani farmland from Landsat imagery; users draw their fields on a map and ask an LLM chatbot about the results. *Next.js, Mapbox GL, Supabase, Python, Groq*
+- **[Jugnu](https://github.com/Muddasirr/jugnu)** ([live](https://jugnu-nu.vercel.app)): website for The Jugnu Project, a domestic-violence resource center in Pakistan, with help and resource pages, maps, and a small CMS so staff can edit content without a developer. *Next.js, TypeScript, Leaflet*
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muddasirr&theme=tokyonight" alt="GitHub Streak">
-</p>
+### Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muddasirr&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
+**Languages:** TypeScript, JavaScript, Python, SQL, Java<br>
+**Frontend:** React, Next.js, Vite, Tailwind CSS, shadcn/ui, Material UI, React Three Fiber<br>
+**Backend:** FastAPI, SQLAlchemy, Node.js, Express<br>
+**Data and infra:** PostgreSQL, Supabase, Redis, Docker, S3, Vercel<br>
+**AI/ML:** YOLO (Ultralytics), PyTorch, Hugging Face Transformers, LLM APIs (Groq, OpenAI), Vapi, LangGraph
 
-## 📊 Leetcode Stats
+### Contact
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Muddasirr)
-<!--
-**Muddasirr/Muddasirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[muddasirrizwan9@gmail.com](mailto:muddasirrizwan9@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muddasir-rizwan/) · [Portfolio](https://www.muddasirrizwan.com)
+<!-- TODO(Muddasir): add a public resume link here (e.g. a PDF on your portfolio). Don't link a copy with your phone number. -->
