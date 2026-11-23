@@ -7,8 +7,8 @@ Software engineer in Karachi. I build full-stack web products and AI agents, fro
 ### Featured work
 
 - **[CourtLens](https://github.com/Muddasirr/courtlens)**: post-match analytics for futsal facilities from fixed cameras or uploaded video. Tracks players and the ball, splits teams by kit, derives possession, passes, shots and per-player stats, and lets staff review everything before it's published. *Python, FastAPI, YOLO, OSNet, PostgreSQL, React, Docker*
-- **[Voice patient registration agent](https://github.com/Muddasirr/CC_voice_agent)**: answers a phone line, registers new patients or updates returning callers by voice, and saves records through the same FastAPI validation layer as the REST API. *Python, FastAPI, SQLAlchemy, Vapi*
-- **[Crop yield predictor](https://github.com/Muddasirr/Satellite-Based-Crop-Yield-Predictor)** ([live](https://satellite-based-crop-yield-predictor.vercel.app)): final-year project at IBA. Predicts crop yield for Pakistani farmland from Landsat imagery; users draw their fields on a map and ask an LLM chatbot about the results. *Next.js, Mapbox GL, Supabase, Python, Groq*
+- **[Voice patient registration agent](https://github.com/Muddasirr/voice-patient-intake)** ([live API](https://api-production-93604891.up.railway.app/docs)): answers a phone line, registers new patients or updates returning callers by voice, and saves records through the same FastAPI validation layer as the REST API. *Python, FastAPI, SQLAlchemy, Vapi*
+- **[Crop yield predictor](https://github.com/Muddasirr/crop-yield-predictor)** ([live](https://satellite-based-crop-yield-predictor.vercel.app)): final-year project at IBA. Predicts crop yield for Pakistani farmland from Landsat imagery; users draw their fields on a map and ask an LLM chatbot about the results. *Next.js, Mapbox GL, Supabase, Python, Groq*
 - **[Jugnu](https://github.com/Muddasirr/jugnu)** ([live](https://jugnu-nu.vercel.app)): website for The Jugnu Project, a domestic-violence resource center in Pakistan, with help and resource pages, maps, and a small CMS so staff can edit content without a developer. *Next.js, TypeScript, Leaflet*
 
 ### Stack
