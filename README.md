@@ -22,4 +22,3 @@ Software engineer in Karachi. I build full-stack web products and AI agents, fro
 ### Contact
 
 [muddasirrizwan9@gmail.com](mailto:muddasirrizwan9@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muddasir-rizwan/) · [Portfolio](https://www.muddasirrizwan.com)
-<!-- TODO(Muddasir): add a public resume link here (e.g. a PDF on your portfolio). Don't link a copy with your phone number. -->
